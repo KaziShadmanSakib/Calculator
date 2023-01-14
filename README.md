@@ -3,6 +3,6 @@
 * Tools and Technology: Java, Javafx.
 
 ->You have to first install java and javafx in your computer<-
-->Enjoy my calculator<-
+->Enjoy the calculator<-
 Thank you <3
 
